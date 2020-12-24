@@ -1,6 +1,6 @@
 # Music Player
 
-![image](https://github.com/aviraltandon21/musicplayer_flutter/blob/master/screenshots/preview.jpeg?raw=true)
+![image](https://github.com/aviraltandon21/musicplayer_flutter/blob/master/screenshot/preview.jpeg?raw=true)
 
 A new Flutter application.
 
